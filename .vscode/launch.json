@@ -1,0 +1,14 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+      {
+        "name": "Run Equestrian Challenge",
+        "type": "python",
+        "request": "launch",
+        "program": "${workspaceFolder}/src/equestrian/main.py",
+        "console": "integratedTerminal",
+        "cwd": "${workspaceFolder}"
+      }
+    ]
+  }
+  
