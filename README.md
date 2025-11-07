@@ -69,7 +69,7 @@ Esta separación cumple la consigna de “modularizar y mantener un main”.
 
 ---
 
-## Cómo se satisfacen los requisitos de la facultad
+## Explicacion de consignas
 
 ### 1. POO + herencia + encapsulamiento (mínimo 2 clases)
 
