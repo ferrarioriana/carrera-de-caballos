@@ -1,0 +1,24 @@
+[
+  {
+    "timestamp": "2025-11-07 09:40:07",
+    "jugador": "Oriana",
+    "puntos": 500,
+    "caballo": "Cazadora",
+    "sexo": "Yegua",
+    "raza": "Cuarto de Milla",
+    "clima": "Lluvioso",
+    "tiempo": 45.28,
+    "gano": true
+  },
+  {
+    "timestamp": "2025-11-07 10:04:19",
+    "jugador": "Oriana",
+    "puntos": 600,
+    "caballo": "Cazadora",
+    "sexo": "Yegua",
+    "raza": "Pura Sangre",
+    "clima": "Lluvioso",
+    "tiempo": 39.36,
+    "gano": true
+  }
+]
